@@ -1,4 +1,4 @@
-# Date:26.09.2025
+# Date:25:09:2025
 ## Register Number:25018024
 ## Name:MOHIT N
 ## Problem Title
@@ -68,5 +68,6 @@ This offers numerous benefits that can transform the lives of small and marginal
 
 ## Research and References
 A study published in the Bulletin of Environment, Pharmacology and Life Sciences (November 2022) highlights the limited awareness and adoption of ICT-based agro-advisory services among farmers in Tamil Nadu. Despite widespread mobile phone usage, farmers often lack access to reliable, localized agricultural information, relying instead on informal sources. The research emphasizes the need for user-friendly, multilingual platforms that can bridge the digital divide and deliver real-time, scientific guidance tailored to local conditions. This supports the feasibility and urgency of deploying AI-powered advisory tools to empower small and marginal farmers.
+
 https://bepls.com/beplsnov2022/8.pdf
 
