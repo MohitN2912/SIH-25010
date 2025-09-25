@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="Flowchart illustrati" src="https://github.com/user-attachments/assets/968ad6e7-4a3f-4e48-9d27-fd3246a4d860" /># Smart India Hackathon Workshop
 # Date:26.09.2025
 ## Register Number:25018024
 ## Name:MOHIT N
